@@ -1,4 +1,4 @@
-# LKS Provinsi Jawa Tengah 2022
+# Hasil LKS Provinsi Jawa Tengah 2022
 ## Bidang Lomba : IT Software Solution for Business
 
 
