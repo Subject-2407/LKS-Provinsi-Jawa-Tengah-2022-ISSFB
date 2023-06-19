@@ -6,4 +6,4 @@
 
 - **Case 2** : Mobile Application (*Java, Android Studio*)
 
-- **Case 3** : Web Application (*C#, .NET Core, Microsoft SQL Server*)
+- **Case 3** : Web Application (*C#, ASP.NET, Microsoft SQL Server*)
